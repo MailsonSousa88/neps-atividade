@@ -1,5 +1,6 @@
-const fs = require("fs");
-const input = fs.readFileSync(0, "utf8");
+//Solução da questão "Gangorra"
+let fs = require("fs");
+let input = fs.readFileSync(0, "utf8");
 
 let valores = input.trim().split(" ");
 

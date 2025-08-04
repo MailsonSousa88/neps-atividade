@@ -1,4 +1,4 @@
-// A variável input contém a entrada descrita no exercício
+//Solução da questão "premio do milhão"
 const fs = require("fs");
 const input = fs.readFileSync(0, "utf8");
 
